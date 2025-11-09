@@ -13,7 +13,7 @@ import 'package:flutter/foundation.dart'
 /// await Firebase.initializeApp(
 ///   options: DefaultFirebaseOptions.currentPlatform,
 /// );
-/// 
+///
 class DefaultFirebaseOptions {
   static FirebaseOptions get currentPlatform {
     if (kIsWeb) {
@@ -41,7 +41,7 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyDVyEmpi2EAVZNtkTi0y02VEPLr5wd0rzI',
+    apiKey: '',
     appId: '1:514378549092:web:5a199dad59f4ac6f1d9c71',
     messagingSenderId: '514378549092',
     projectId: 'bookswap-751e6',
@@ -85,5 +85,4 @@ class DefaultFirebaseOptions {
     storageBucket: 'bookswap-751e6.firebasestorage.app',
     measurementId: 'G-SKG8CJR1BK',
   );
-
 }
