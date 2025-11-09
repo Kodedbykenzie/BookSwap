@@ -1,12 +1,8 @@
-Absolutely! Let’s create a **professional README** for your BookSwap Flutter project. Here’s a template you can use and modify as needed:
-
----
-
 # 📚 BookSwap
 
 **BookSwap** is a Flutter-based mobile application that allows users to list their books, manage swap offers, and connect with other book lovers. The app integrates **Firebase Authentication**, **Cloud Firestore**, and **Firebase Storage** to provide a seamless and interactive experience.
 
----
+
 
 ## 🧩 Features
 
@@ -16,7 +12,7 @@ Absolutely! Let’s create a **professional README** for your BookSwap Flutter p
 * **Responsive UI**: Supports both mobile and web platforms.
 * **Splash Screen**: Animated splash screen on app launch.
 
----
+
  ⚙️ Getting Started
 
 ### Prerequisites
@@ -51,7 +47,7 @@ flutter pub get
 flutter run
 ```
 
----
+
 
 ## 🛠 Tech Stack
 
@@ -60,7 +56,7 @@ flutter run
 * Firebase (Auth, Firestore, Storage)
 * Riverpod (State Management)
 
----
+
 
 ## 📝 Folder Structure
 
@@ -83,20 +79,18 @@ lib/
 └─ widgets/
 ```
 
----
+
 
 ## 🔗 GitHub Repository
 
 [BookSwap on GitHub](https://github.com/Kodedbykenzie/BookSwap.git)
 
----
+
 
 ## 🙏 Credits
 
 * Developed by **Kodedbykenzie**
-* Icons by **Material Icons**
-* Images and UI inspired by academic-themed color palettes
 
----
+
 
 
