@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "859355606739",
+    "project_id": "techari-be4ba",
+    "storage_bucket": "techari-be4ba.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:859355606739:android:afb850eda0b4ee6c932e26",
+        "android_client_info": {
+          "package_name": "com.example.bookswap"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "859355606739-n9a7pfannooosjol0r0mn69ekhhbeuqs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZhcPg2stOOUWEblgmCQYnXu3IJ66hHlU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "859355606739-l3rh70n05cbn3dldoe8fph1hvgj2qqc1.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "859355606739-rqr0m4tnbjcb4550ngnqvsp9es2jhh5j.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.bookswap"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
